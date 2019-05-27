@@ -1,3 +1,4 @@
 Nama : Rey
 nim : 1024
 Alamat : RRC (Ringdikit Rock City)
+Moto : "KErja Kerja"
